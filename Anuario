@@ -1,0 +1,283 @@
+<!DOCTYPEhtml>
+<style>
+    
+    
+        body{
+        
+            <fontface= "sans-serif" color="#F6DFF"">
+                
+            </fontface>
+  
+        .student
+        
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+            width: 200px;
+        }
+        .student img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        .students {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            }
+            }
+        .social-links {
+            margin-top: 10px;
+        }
+        .social-links a {
+            margin: 0 5px;
+            color: white;
+            text-decoration: none;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+            
+    </style>
+</head>
+<audio controls loop
+       src="/storage/emulated/0/Music/Gorillaz-Dirty Harry_1716594874194.mp3" type="audio/source>/mpeg">
+        
+    </audio>
+<body background= "/storage/emulated/0/DCIM/maestrosyalumnos/pompom1.jpg"
+    <header>
+        <h1>Anuario Escolar</h1>
+    </header>
+
+    <section id="alumnos">
+        <h2>Alumnos</h2>
+        <div class="students">
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/yomerenges.jpg" alt="Diana Laura Rincón">
+                <h3>Diana Laura Rincón </h3>
+                <p> "El boleto hacia el futuro siempre esta en blanco"</p>
+                <div class="social-links">
+            <a href="https://www.facebook.com/profile.php?id=100083806596441&mibextid=ZbWKwL" target="_blank">Facebook</a>
+            <a href="https://x.com/Lif_draw098?t=rg25fUcx94TJOKAXU5CFbA&s=09" target="_blank">Twitter (X)</a>
+            <a href="https://www.tiktok.com/@mayafey_6789?_t=8muT8EM7941&_r=1" target="_blank">Tik tok</a>
+        </div>
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/mylove.jpg" alt="Atala Leylani">
+                <h3>Atala Leylani Ramirez</h3>
+                <p>"Vas a caer gege! 😠🫵".</p>
+        </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/furro.jpg" alt="Tristán Yvain">
+                <h3>Tristán Yvain Ortega</h3>
+                <p>"ponle que diga ...HAMBREADO HASTA LA MUERTE!"</p>
+                 </div>
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/maestralolita.jpg" alt="Maria Dolores">
+                <h3> Profesora Maria Dolores</h3>
+                <p>"movilizen el lapiz😠🫵"</p>
+                </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Maricarmen.jpg" alt="Maricarmen Yazmin">
+                <h3>Maricarmen Yazmin</h3>
+                <p>"Acepta la vida como es , un ciclo infinito de principios y finales✨"</p>
+                
+            </div>
+                
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Antonio.jpg" alt="Profesor Jose Antonio">
+                <h3>Profesor Jose Antonio</h3>
+                <p>"Hechenle ganas🤓☝️"</p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Sergio.jpg" alt="Sergio">
+                <h3>Sergio</h3>
+                <p>Me caes medianamente mal</p>
+                 </div>
+                 
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Alberto.jpg" alt="Alberto">
+                <h3>Alberto</h3>
+                <p>No te conozco</p>
+                
+            </div>
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Jhonatan.jpg" alt="Jonathan">
+                <h3>Jonathan Rea</h3>
+                <p>Me caes bien</p>
+                
+                </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/fatima.jpg" alt="fatima">
+                <h3>Fatima Chávez</h3>
+                <p>Tampoco te conozco </p>
+                
+                
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/susan.jpg" alt="susan">
+                <h3>Gabriela Villanuevas</h3>
+                <p>Me caes bien</p>
+                
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/naomi.jpg" alt="naomi">
+                <h3>Naomi</h3>
+                <p>No te conozco</p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Valeria.jpg" alt="Valeria">
+                <h3>Valeria Rubí</h3>
+                <p>Tampoco te conozco </p>
+                
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Nestor.jpg" alt="Néstor">
+                <h3>Néstor</h3>
+                <p>Me caes bien</p>
+                
+            </div>
+            
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/esmeralda.jpg" alt="Esmeralda">
+                <h3>Esmeralda</h3>
+                <p>No te conozco del todo</p>
+                
+            </div>
+            
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/braulio.jpg" alt="Braulio">
+                <h3>Braulio</h3>
+                <p>No te conozco pero te ves buena onda</p>
+                
+            </div>
+            
+        
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Cristian.jpg" alt="Cristian">
+                <h3>Cristian</h3>
+                <p>No te conozco </p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/erick.jpg" alt="erick">
+                <h3>Erick</h3>
+                <p>No te conozco</p>
+                
+            </div>
+            
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/adan.jpg" alt="adan">
+                <h3>Adán</h3>
+                <p>Me caes bien </p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/charlie.jpg" alt="charlie">
+                <h3>Charlie</h3>
+                <p>No te conozco, realmente no conozco a nadie xd</p>
+                
+                
+           
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/carlita.jpg" alt="Carlita ">
+                <h3>Carla</h3>
+                <p>Me caes bien </p>
+                
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Alejandra.jpg" alt="Alejandra">
+                <h3>Alejandra</h3>
+                <p>No te conozco, supongo</p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/Fermín.jpg" alt="Fermín">
+                <h3>Fermín</h3>
+                <p>ni siquiera es de nuestro grupo pero es mi amigo y lo aprecio 🗿♥️✨</p>
+                
+            
+            </div>
+            <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/rikiyroberto.jpg" alt="Riki y Roberto">
+                <h3>Riki y Roberto</h3>
+                <p>Son mis hijos 🗿👍</p>
+                
+            
+            </div>
+          
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/pollometiche.jpg" alt="pollo metiche">
+                <h3>Pollo metiche</h3>
+                <p>Pollo metiche </p>
+                
+                 <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/alondra.jpg" alt="alondra">
+                <h3>Alondra</h3>
+                <p>Cantas bien</p>
+                </div>
+                
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/cesar.jpg" alt="cesar">
+                <h3>cesar</h3>
+                <p>castroso</p>
+                </div>
+                
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/daniela.jpg" alt="Daniela">
+                <h3>Daniela</h3>
+                <p>ya dije que no te conozco???</p>
+                </div>
+                
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/joseguadalupe.jpg" alt="Jose Guadalupe">
+                <h3>Jose Guadalupe</h3>
+                <p>tu cara me suena , pero no te conozco</p>
+                </div>
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/natalia.jpg" alt="Natalia">
+                <h3>Natalia</h3>
+                <p>no te conozco</p>
+                </div>
+                
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/wendy.jpg" alt="wendy">
+                <h3>Wendy</h3>
+                <p>No conozco a nadie del salón honestamente</p>
+                </div>
+                
+                <div class="student">
+                <img src="/storage/emulated/0/DCIM/maestrosyalumnos/saul.jpg" alt="saul">
+                <h3>Saul</h3>
+                <p>Metete en arroz a ver si asi te arreglas como persona</p>
+                </div>
+            </body>
+            </html>
+                
+                
+            </div>
+            
+            <img src="/storage/emulated/0/DCIM/maestrosyalumnos/birrete.gif">
+    </section>
+</body>
+</html>
+    </footer>
+</body>
+</html>
